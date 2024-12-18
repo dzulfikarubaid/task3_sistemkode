@@ -1,0 +1,67 @@
+{
+  "mata_kuliah": [
+    {
+      "id": 1,
+      "matkul": "Pemrograman Web",
+      "nim": 123456,
+      "nilai": 85,
+      "dosen_pengajar": "Pak Budi"
+    },
+    {
+      "id": 2,
+      "matkul": "Basis Data",
+      "nim": 234567,
+      "nilai": 70,
+      "dosen_pengajar": "Ibu Ani"
+    },
+    {
+      "id": 3,
+      "matkul": "Jaringan Komputer",
+      "nim": 345678,
+      "nilai": 75,
+      "dosen_pengajar": "Pak Dodi"
+    },
+    {
+      "id": 4,
+      "matkul": "Sistem Operasi",
+      "nim": 123456,
+      "nilai": 90,
+      "dosen_pengajar": "Pak Budi"
+    },
+    {
+      "id": 5,
+      "matkul": "Manajemen Proyek",
+      "nim": 456789,
+      "nilai": 80,
+      "dosen_pengajar": "Ibu Desi"
+    },
+    {
+      "id": 6,
+      "matkul": "Bahasa Inggris",
+      "nim": 567890,
+      "nilai": 85,
+      "dosen_pengajar": "Ibu Eka"
+    },
+    {
+      "id": 7,
+      "matkul": "Statistika",
+      "nim": 678901,
+      "nilai": 75,
+      "dosen_pengajar": "Pak Farhan"
+    },
+    {
+      "id": 8,
+      "matkul": "Algoritma",
+      "nim": 789012,
+      "nilai": 65,
+      "dosen_pengajar": "Pak Galih"
+    },
+    {
+      "id": 9,
+      "matkul": "Pemrograman Java",
+      "nim": 123456,
+      "nilai": 95,
+      "dosen_pengajar": "Pak Budi"
+    }
+  ]
+}

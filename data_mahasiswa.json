@@ -1,0 +1,53 @@
+{
+  "mahasiswa": [
+    {
+      "nim": 123456,
+      "nama": "John",
+      "alamat": "Jl. Merdeka No. 1",
+      "jurusan": "Teknik Informatika",
+      "umur": 21
+    },
+    {
+      "nim": 234567,
+      "nama": "Alice",
+      "alamat": "Jl. Gatot Subroto",
+      "jurusan": "Sistem Informasi",
+      "umur": 23
+    },
+    {
+      "nim": 345678,
+      "nama": "Bob",
+      "alamat": "Jl. Sudirman No. 5",
+      "jurusan": "Teknik Informatika",
+      "umur": 20
+    },
+    {
+      "nim": 456789,
+      "nama": "Cindy",
+      "alamat": "Jl. Pahlawan No. 2",
+      "jurusan": "Manajemen",
+      "umur": 22
+    },
+    {
+      "nim": 567890,
+      "nama": "David",
+      "alamat": "Jl. Diponegoro No. 3",
+      "jurusan": "Teknik Elektro",
+      "umur": 25
+    },
+    {
+      "nim": 678901,
+      "nama": "Emily",
+      "alamat": "Jl. Cendrawasih No. 4",
+      "jurusan": "Manajemen",
+      "umur": 24
+    },
+    {
+      "nim": 789012,
+      "nama": "Frank",
+      "alamat": "Jl. Ahmad Yani No. 6",
+      "jurusan": "Teknik Informatika",
+      "umur": 19
+    }
+  ]
+}
